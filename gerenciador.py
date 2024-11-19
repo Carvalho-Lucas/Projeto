@@ -76,8 +76,6 @@ while True:
         visualizar(tarefas)
         deletar_tarefa_completada(tarefas)
         
-
-
     elif escolha == "6" or escolha >= "7":
         print("Saindo do programa!")
         break
